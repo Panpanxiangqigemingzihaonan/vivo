@@ -73,21 +73,22 @@
     position: relative;
 }
 
-.bar-box{
-    width:200px ;
+.bar-box {
+    width: 200px;
     height: 20px;
     display: flex;
     justify-content: space-between;
     position: absolute;
-    top:428px;
-    left:500px ;
-
+    top: 428px;
+    left: 500px;
 }
-.bar1{
+
+.bar1 {
     width: 42px;
     height: 5px;
-    background-color: rgba(255,255,255,0.7);
+    background-color: rgba(255, 255, 255, 0.7);
 }
+
 .promise {
     width: 1200px;
     height: 67px;
@@ -106,9 +107,9 @@
     justify-content: space-between;
 }
 
-.promise .title2{
-    width:177px;
-    height:20px;
+.promise .title2 {
+    width: 177px;
+    height: 20px;
     float: right;
     display: flex;
     justify-content: space-between;
@@ -140,7 +141,7 @@
 
 .c1 {
     padding-left: 20px;
-    background: url("question.png") no-repeat left 2px ;
+    background: url("question.png") no-repeat left 2px;
     background-size: 23% auto;
 }
 
@@ -165,7 +166,6 @@
     line-height: 17px;
     text-decoration: none;
     margin-left: 5px;
-
 }
 
 .product-box {
@@ -304,7 +304,6 @@
     width: 1200px;
     height: 867px;
     margin: 0 auto;
-
 }
 
 .floor-list {
