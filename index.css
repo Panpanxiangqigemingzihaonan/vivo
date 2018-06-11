@@ -30,8 +30,7 @@
 .bar .left {
     width: 74px;
     height: 41px;
-    background: url("vivo.png") no-repeat left center;
-    background-size: 100% auto;
+    background: url("vivo.png") no-repeat left center /100% auto;
 }
 
 .bar .center {
@@ -68,8 +67,7 @@
     margin: 0 auto 10px;
     width: 1200px;
     height: 450px;
-    background: url("picture.jpg") no-repeat center center;
-    background-size: 100% auto;
+    background: url("picture.jpg") no-repeat center center /100% auto;
     position: relative;
 }
 
@@ -117,38 +115,33 @@
 
 .b1 {
     padding: 0 0 0 20px;
-    background: url("vvs-agree-icon_e2625c1.png") no-repeat 1px -1px;
-    background-size: 24% auto;
+    background: url("vvs-agree-icon_e2625c1.png") no-repeat 1px -1px /24% auto;
 }
 
 .b2 {
     padding-left: 20px;
-    background: url("vvs-agree-icon_e2625c1.png") no-repeat 1px -18px;
-    background-size: 20% auto;
+    background: url("vvs-agree-icon_e2625c1.png") no-repeat 1px -18px /20% auto;
 }
 
 .b3 {
     padding-left: 20px;
-    background: url("vvs-agree-icon_e2625c1.png") no-repeat 1px -48px;
-    background-size: 20% auto;
+    background: url("vvs-agree-icon_e2625c1.png") no-repeat 1px -48px /20% auto;
 }
 
 .b4 {
     padding-left: 20px;
-    background: url("vvs-agree-icon_e2625c1.png") no-repeat 1px -70px;
-    background-size: 18% auto;
+    background: url("vvs-agree-icon_e2625c1.png") no-repeat 1px -70px /18% auto;
 }
 
 .c1 {
     padding-left: 20px;
-    background: url("question.png") no-repeat left 2px;
-    background-size: 23% auto;
+    background: url("question.png") no-repeat left 2px /23% auto;
 }
 
 .c2 {
     padding-left: 20px;
-    background: url("shop.png") no-repeat left 2px;
-    background-size: 23% auto;
+    background: url("shop.png") no-repeat left 2px /23% auto;
+
 }
 
 .promise span {
@@ -183,23 +176,19 @@
 }
 
 .product:nth-child(1) {
-    background: url(20180428104400164455_original.jpg) no-repeat center center;
-    background-size: 100% auto;
+    background: url(20180428104400164455_original.jpg) no-repeat center center /100% auto;
 }
 
 .product:nth-child(2) {
-    background: url(20180428105522994861_original.jpg) no-repeat center center;
-    background-size: 100% auto;
+    background: url(20180428105522994861_original.jpg) no-repeat center center /100% auto;
 }
 
 .product:nth-child(3) {
-    background: url(20180604111836883949_original.jpg) no-repeat center center;
-    background-size: 100% auto;
+    background: url(20180604111836883949_original.jpg) no-repeat center center /100% auto;
 }
 
 .product:nth-child(4) {
-    background: url(20180428105538500264_original.jpg) no-repeat center center;
-    background-size: 100% auto;
+    background: url(20180428105538500264_original.jpg) no-repeat center center /100% auto;
 }
 
 .info {
@@ -223,7 +212,8 @@
     line-height: 1;
     text-decoration: none;
     float: right;
-    margin: -18px 0 0 22px;
+    margin: -18px 0 6px 22px;
+
 }
 
 .box-list {
@@ -261,18 +251,15 @@
 }
 
 .phone1 {
-    background: url("red.png") no-repeat center center;
-    background-size: 230px 230px;
+    background: url("red.png") no-repeat center center /230px 230px;
 }
 
 .phone2 {
-    background: url("black.png") no-repeat center center;
-    background-size: 230px 230px;
+    background: url("black.png") no-repeat center center /230px 230px;
 }
 
 .phone3 {
-    background: url("gold.png") no-repeat center center;
-    background-size: 230px 230px;
+    background: url("gold.png") no-repeat center center /230px 230px;
 }
 
 .box-list ul {
@@ -302,7 +289,7 @@
 
 .floor {
     width: 1200px;
-    height: 867px;
+    height: 780px;
     margin: 0 auto;
 }
 
@@ -320,67 +307,60 @@
 .list1 {
     width: 595px;
     height: 380px;
-    background: url("1.png") no-repeat center center;
-    background-size: 100% auto;
+    background: url("1.png") no-repeat center center /100% auto;
 }
 
 .list2 {
     width: 293px;
     height: 380px;
     border: red 2px;
-    background-size: 100% auto;
     background-color: #ffffff;
+    background-size: 100% auto;
 }
 
 .goods1 {
     width: 172px;
     height: 172px;
     margin: 43px auto 10px;
-    background: url("2.png") no-repeat center center;
-    background-size: 100% auto;
+    background: url("2.png") no-repeat center center /100% auto;;
 }
 
 .goods2 {
     width: 172px;
     height: 172px;
     margin: 43px auto 10px;
-    background: url("3.png") no-repeat center center;
-    background-size: 100% auto;
+    background: url("3.png") no-repeat center center /100% auto;;
 }
 
 .goods3 {
     width: 172px;
     height: 172px;
     margin: 43px auto 10px;
-    background: url("4.png") no-repeat center center;
-    background-size: 100% auto;
+    background: url("4.png") no-repeat center center /100% auto;;
 }
 
 .goods4 {
     width: 172px;
     height: 172px;
     margin: 43px auto 10px;
-    background: url("5.png") no-repeat center center;
-    background-size: 100% auto;
+    background: url("5.png") no-repeat center center /100% auto;;
 }
 
 .goods5 {
     width: 172px;
     height: 172px;
     margin: 43px auto 10px;
-    background: url("7.png") no-repeat center center;
-    background-size: 100% auto;
+    background: url("7.png") no-repeat center center /100% auto;;
 }
 
 .goods6 {
     width: 172px;
     height: 172px;
     margin: 43px auto 10px;
-    background: url("8.png") no-repeat center center;
-    background-size: 100% auto;
+    background: url("8.png") no-repeat center center /100% auto;
 }
 
-.list2 ul {
+. list ul {
     width: 293px;
     height: 25px;
     padding: 6px 0 29px 0;
@@ -404,3 +384,105 @@
     font-weight: 400;
 }
 
+.part-box {
+    width: 1200px;
+    height: 780px;
+    margin: 0 auto 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.part {
+    width: 293px;
+    height: 380px;
+    margin-bottom: 10px;
+    background: white;
+    text-align: center;
+}
+
+.part1 {
+    width: 172px;
+    height: 172px;
+    margin: 43px auto 0;
+    background: url("01.png") no-repeat center center /100% auto;
+}
+
+.part2 {
+    width: 172px;
+    height: 172px;
+    margin: 43px auto 0;
+    background: url("02.png") no-repeat center center /100% auto;
+}
+
+.part3 {
+    width: 172px;
+    height: 172px;
+    margin: 43px auto 0;
+    background: url("03.png") no-repeat center center /100% auto;
+
+}
+
+.part4 {
+    width: 172px;
+    height: 172px;
+    margin: 43px auto 0;
+    background: url("04.png") no-repeat center center /100% auto;
+}
+
+.part5 {
+    width: 172px;
+    height: 172px;
+    margin: 43px auto 0;
+    background: url("05.png") no-repeat center center /100% auto;
+}
+
+.part6 {
+    width: 172px;
+    height: 172px;
+    margin: 43px auto 0;
+    background: url("06.png") no-repeat center center /100% auto;
+}
+
+.part7 {
+    width: 172px;
+    height: 172px;
+    margin: 43px auto 0;
+    background: url("07.png") no-repeat center center /100% auto;
+}
+
+.part8 {
+    width: 172px;
+    height: 172px;
+    margin: 43px auto 0;
+    background: url("08.png") no-repeat center center /100% auto;
+    background-size: 100% auto;
+}
+
+.part ul {
+    width: 293px;
+    height: 25px;
+    padding: 19px 0 0 0;
+    margin: 0 auto;
+    font-weight: 400;
+}
+
+.part h6 {
+    width: 293px;
+    height: 24px;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 56px;
+    padding: 6px 0 59px 0;
+    margin: 0 auto;
+    color: #333333;
+}
+
+.part h5 {
+    width: 293px;
+    height: 58px;
+    color: #f51919;
+    font-size: 16px;
+    font-weight: 400;
+}
